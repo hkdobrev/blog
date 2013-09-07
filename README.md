@@ -11,3 +11,7 @@ I am using a [tumblr gem](https://github.com/mwunsch/tumblr) to publish and edit
 ---
 
 Another aspect of that is I am open sourcing my blog posts. Anyone could see drafts or propose a pull request.
+
+---
+
+All content is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. See the [license file](LICENSE.md).
