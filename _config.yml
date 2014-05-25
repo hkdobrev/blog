@@ -1,0 +1,11 @@
+# Site settings
+title: Haralan Dobrev
+email: hkdobrev@gmail.com
+description: "Personal blog of Haralan Dobrev - web developer, open-source enthusiast, Git evangelist."
+baseurl: ""
+url: http://blog.hkdobrev.com
+username: hkdobrev
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:year-:month-:day/:title
