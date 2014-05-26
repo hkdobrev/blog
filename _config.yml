@@ -4,7 +4,24 @@ email: hkdobrev@gmail.com
 description: "Personal blog of Haralan Dobrev - web developer, open-source enthusiast, Git evangelist."
 baseurl: ""
 url: http://blog.hkdobrev.com
+website: http://hkdobrev.com
 username: hkdobrev
+
+# Footer links
+links:
+  - name:         Blog
+    url:          /
+  - name:         Website
+    url:          http://hkdobrev.com
+    external:     true
+  - name:         Twitter
+    url:          https://twitter.com/hkdobrev
+    external:     true
+  - name:         GitHub
+    url:          http://github.com/hkdobrev
+    external:     true
+  - name:         RSS
+    url:          /feed.xml
 
 # Build settings
 markdown: kramdown
